@@ -1,5 +1,7 @@
 <!-- initial draft for my professional portal. It is meant to serve as a portal so people can find information about me, my resume, as well as projects or links to resources that showcase some of my skills-->
-<!-- created using Bootstrap and Sass-->
+<!-- created using Bootstrap and Sass
+
+The link buttons are not currently working. Was included to test for styling. Need more knowledge and skills to make functional  -->
 
 <html lang="en">
 <head>
@@ -12,45 +14,24 @@
 </head>
 <body>
   <header>
-    <!-- navbar was included so that users could have a static navigation option at the top that would go with them if they scrolled down. This does duplicate some of features already in the page, so that will be modified over time. 
-     
-    Also would like to look at the idea of including a search box-->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <div class="container-fluid">
-        <a class="navbar-brand" href="#">Navbar</a>
-        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNav">
-          <ul class="navbar-nav">
-            <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Resumes</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#">Projects</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
     <!-- the primary header of the page. Meant to capture the attention of those coming to the page. Future revisions will look at asethic changes to make it more catchy, without being distraction, as well as looking at the buttons.
         Like the navbar, the buttons duplicate some the functionality of the side contents bar.-->
     <section class="jumbotron">
       <div class="container-fluid">
-        <h1 class="hero-name"> Michael Kubisewsky</h1>
+        <div> 
+          <h1 class="hero-name"> Michael Kubisewsky</h1>
+        </div>
         <div>
           <img src="divider-hero.png" class="hero-divider"/>
         </div>
-
+        <div>
         <h2 class="hero-title">My Professional Portal</h2>
-      </div>
-      <div style="position: absolute; bottom: 20px; left: 50%; transform: translate(-50%);">
-        <button class="hero-primary-buttons"> About Me</button>
-        <button class="hero-primary-buttons"> Resumes</button>
-        <button class="hero-primary-buttons"> Projects</button>
+        </div>
+        <div style="position: absolute; bottom: 20px; left: 50%; transform: translate(-50%);">
+          <button class="hero-primary-buttons"> About Me</button>
+          <button class="hero-primary-buttons"> Resumes</button>
+          <button class="hero-primary-buttons"> Projects</button>
+        </div>
       </div>
     </section>
   </header>
@@ -89,3 +70,29 @@
 </body>
 </html>
 
+  <!-- This is a navbar that was included so that a user would have something to navigate with even if they scroll. It overlaps on the title when tested on a colleges device, however, so it was commented out.
+   Not deleted because I still want to include it in the next revision, but it is hard to diagnose as it works on my main device. If I can't make it work for next revision, it will be deleted out. 
+     
+    
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link active" aria-current="page" href="#">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Resumes</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">Projects</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  -->
