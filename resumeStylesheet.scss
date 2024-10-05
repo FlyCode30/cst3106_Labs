@@ -1,0 +1,82 @@
+// resume stylesheet.scss
+
+//variables
+$primary-color: #0F0085;
+$background-color: #f9f9fd;
+$button-padding: 5px 15px;
+.viewport {
+    background-color: $background-color;
+    padding-right: 3%;
+    padding-left: 3%;
+}
+
+.body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.title {
+    text-align: center;
+    color: $primary-color;
+    margin-top: 2%;
+    letter-spacing: 1.5em ;
+   
+}
+
+.headerCapLet::first-letter {
+    font-size: 150%;
+}
+
+.title-divider {
+    max-width: 25%;
+    height: auto;
+    display: block;
+    margin: 15px auto;
+}
+
+.contact-info {
+    width: 100%;
+    border-bottom: 3px solid;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.contact-info-span {
+    margin-left: 15px;
+}
+
+.global-1 {
+    margin-top: 2em;
+}
+
+.global-2 {
+    margin-left: 7%;
+    margin-top: 1em;
+}
+
+.global-3 {
+    margin-left: 11%;
+}
+
+.header-1 {
+    color: $primary-color;
+}
+
+.header-2 {
+    font-style: italic;
+    color: $primary-color;
+}
+
+h6.content-italics {
+    font-style: italic;
+}
+
+#return-to-top {
+    display: block;
+    text-align: center;
+    margin: 20px;
+
+}
+
+.bottom {
+    margin-bottom: 5%;
+}
+
