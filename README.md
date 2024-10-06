@@ -20,14 +20,14 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 
 ## 3. General Layout
 
-- layout utilizes a bootstrap grid layout.
-- fixed navbar that is accessible while scrolling at top
+- Layout utilizes a bootstrap grid layout with Navbar and footer
 - Header consists of hero-style banner at top
-- Main section is one row, 3 columns. Two sidebars and one main content display area
+- Main section is one row, 3 columns. Consists of two sidebars and one main content display area
 - Footer at bottom
 
 ## 4. Navbar
 
+- Designed to stay fixed at top so it's available while scolling.
 - Allows for easier navigation if side nav bar is not available
 - No mock-up provided at this time, as the title could not be made to fit with navbar.
 - Addition planned for upcoming revision
