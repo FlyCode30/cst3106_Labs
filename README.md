@@ -68,7 +68,7 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 
 ## 7. footer
 
-- light blude background with black text
+- light blue background with black text
 - mockup
   ![footer](https://github.com/user-attachments/assets/e183b2f1-2c09-4492-a88b-c8cab9aa7d81)
 
