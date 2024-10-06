@@ -15,6 +15,6 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 
 - mock-up screenshot
 
-  ![alt text] ![Header](https://github.com/user-attachments/assets/924799db-f9b6-4f1f-864c-18092e090945)
+![Header](https://github.com/user-attachments/assets/924799db-f9b6-4f1f-864c-18092e090945)
 
  
