@@ -1,6 +1,6 @@
 Michael Kubisewsky's Portfolio - "My Professional Portal" - Design System Documentation
 
-## 1. ## Color Palette
+## 1. Color Palette
 
 An analogous color scheme was created with the assistance of Adobe color wheel
 
