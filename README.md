@@ -19,9 +19,16 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 - body-text: "Georgia", "Times New Roman", Times, Serif;
 - header-text: "Trebuchet MS", sans-serif;
 
+  ## 3. General Layout
+
+- layout utilizes a bootstrap grid layout.
+- fixed navbar that is accessible while scrolling at top
+- Header consists of hero-style banner at top
+- Main section is one row, 3 columns. Two sidebars and one main content display area
+- Footer at bottom
+
 ## 3. Navbar
 
-- Planning on using a navbar at the top of the screen that can stay fixed while user scrolls
 - Allows for easier navigation if side nav bar is not available
 - No mock-up provided at this time, as the title could not be made to fit with navbar.
 - Addition planned for upcoming revision
@@ -30,16 +37,16 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 
 - design centered text with light blue background.
 - first letter stylization and letter spacing used
+- styled divider in between titles
 - mock-up screenshot
 
 ![Header](https://github.com/user-attachments/assets/924799db-f9b6-4f1f-864c-18092e090945)
 
 ## 5. Content
 
-- content is created using grid system in Bootstrap
-- consists of a single row with 3 columns.
-- Functions for columns include 2 side bars. One for navigation side bar, and another for additional resources/links.
-- The third column is the main content being displayed.
+- created using Bootstrap
+- sidebars stretch/adapt with screen size
+- sizing still in progress
 
 ### 5a. Main Content
 
@@ -52,7 +59,7 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 ### 5b. Sidebar headings
 
 - centered
-- dark blue color, bold emphasis
+- dark blue color, bold emphasis, underlined
 - mock-up
 
   ![sidebar-headings](https://github.com/user-attachments/assets/a9892927-1871-4688-9875-c8636cd54280)
