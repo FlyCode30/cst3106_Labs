@@ -26,14 +26,14 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 
 ## 4. Navbar
 
-- Designed to stay fixed at top so it's available while scolling.
+- Designed to stay fixed at top so it's available while scolling
 - Allows for easier navigation if side nav bar is not available
-- No mock-up provided at this time, as the title could not be made to fit with navbar.
+- No mock-up provided at this time, as the title could not be made to fit with navbar
 - Addition planned for upcoming revision
 
 ## 5. Header
 
-- design centered text with light blue background.
+- design centered text with light blue background
 - first letter stylization and letter spacing used
 - styled divider in between titles
 - mock-up screenshot
