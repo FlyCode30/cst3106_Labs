@@ -10,5 +10,10 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 - Background Color Main:
 - Background Color Secondary:
 - Accent Color: 
-3. 
+
+## Header
+
+- mock-up screenshot
+
+  ![alt text] 
  
