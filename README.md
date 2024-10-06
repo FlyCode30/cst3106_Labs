@@ -38,7 +38,6 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 - first letter stylization and letter spacing used
 - styled divider in between titles
 - mock-up screenshot
-
 ![Header](https://github.com/user-attachments/assets/924799db-f9b6-4f1f-864c-18092e090945)
 
 ## 6. Content
@@ -52,7 +51,6 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 - white background with black text.
 - Headings depend on content displayed
 - mockup
-  
   ![main contents](https://github.com/user-attachments/assets/4b149b2c-ff53-4268-ab47-6c1e34969e52)
 
 ### 6b. Sidebar headings
@@ -60,7 +58,6 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 - centered
 - dark blue color, bold emphasis, underlined
 - mock-up
-
   ![sidebar-headings](https://github.com/user-attachments/assets/a9892927-1871-4688-9875-c8636cd54280)
 
 ### 6c. Sidebar contents
@@ -68,14 +65,12 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 - unordred list
 - goal is to have it nested/dynamic so that the options change depending on what the user selects
 - mockup
-
   ![sidebar-contents](https://github.com/user-attachments/assets/e70b444d-1eaf-4673-b9a2-d2e84913c369)
 
 ## 7. footer
 
 - light blude background with black text
 - mockup
-
   ![footer](https://github.com/user-attachments/assets/e183b2f1-2c09-4492-a88b-c8cab9aa7d81)
 
 
