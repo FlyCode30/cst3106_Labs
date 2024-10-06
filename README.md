@@ -43,11 +43,18 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 ### Sidebar headings
 
 - centered
-- dark blue color
+- dark blue color, bold emphasis
 - mock-up
 
-### Sidebar contents left
+### Sidebar contents
 
 - unordred list
+- goal is to have it nested/dynamic so that the options change depending on what the user selects
+- mockup
+
+### footer
+
+- light blude background with black text
+- mockup
 
  
