@@ -4,12 +4,11 @@
 
 An analogous color scheme was created with the assistance of Adobe color wheel
 
-- Primary Color: #0B38B5
-- Text Color: Black
-- Border Color: #5609BD
-- Background Color Main:
-- Background Color Secondary:
-- Accent Color:
+- Primary Color: #0B38B5 (medium-dark blue)
+- Text Color: #000000 Black
+- Background Color Main: light blue
+- Background Color Secondary: light blue/off-white
+- Accent Color: #5609BD purple
 
 ## 2. Text
 
