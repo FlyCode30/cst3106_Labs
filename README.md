@@ -6,9 +6,9 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 
 - Primary Color: #0B38B5 (medium-dark blue)
 - Text Color: #000000 Black
-- Background Color Main: light blue
-- Background Color Secondary: light blue/off-white
-- Accent Color: #5609BD purple
+- Background Color Main: #EBEBFF (light blue)
+- Background Color Secondary: #FAFAFF (light blue/off-white)
+- Accent Color: #5609BD (purple)
 
 ## 2. Text
 
