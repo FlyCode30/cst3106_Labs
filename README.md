@@ -1,4 +1,4 @@
-# Michael Kubisewsky's Portfolio - "My Professional Portal" - Design System Documentation
+# Design System Documentation for Michael Kubisewsky's Professional Portfolio (aka "My Professional Portal")
 
 ## 1. Color Palette
 
