@@ -15,7 +15,6 @@ An analogous color scheme was created with the assistance of Adobe color wheel
 
 - have a body text and a header text.
 - body text has a primary choice, a backup choice, and then generic backups
-
 - body-text: "Georgia", "Times New Roman", Times, Serif;
 - header-text: "Trebuchet MS", sans-serif;
 
